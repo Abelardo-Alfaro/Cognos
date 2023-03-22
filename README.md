@@ -26,6 +26,10 @@ With simple text, you can generate all of this using AI inside IBM's Cognos Anal
 <img src="https://i.imgur.com/fFhe2RO.png" height="50%" width="50%" alt="IBM Cognos Analytic tool 3"/>
 <br />
 <br />
+
+<h2>🌱 Certrifications:</h2>
+- <b> Data Visualization & Dashboards w/ Cognos - [IBM] </b> 
+
 </p>
 
 <!--
