@@ -1,11 +1,10 @@
 <h1> IBM Cognos Analytic BI Tool =  AI + BI </h1>
 
 <h2>Description</h2>
-IBM Cognos Analytics is a robust and powerful analytics tool that can help organizations make data-driven decisions and gain a competitive edge in their industry.<br/><br/>
 
 IBM Cognos Analytics is a powerful business intelligence and analytics tool that enables organizations to gain insights into their data and make informed decisions. It provides a comprehensive suite of features and tools for reporting, analysis, visualization, and dashboarding.<br/> 
 
-This being said, below are some images to further demostrate the power of IBM Cognos. It easy to use, it uses AI to generate insights, and uses the drag mechanism to function to further simplify the usability<br/><br/>
+This being said, below are some images to further demostrate the power of IBM Cognos. It easy to use, it uses AI to generate insights, and uses the drag and drop mechanism as a function to further simplify the usability<br/><br/>
 
 <h2>Environments Used </h2>
 
